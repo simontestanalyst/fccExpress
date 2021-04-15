@@ -12,7 +12,7 @@
 		"body-parser": "^1.15.2",
 		"cookie-parser": "^1.4.3",
 		"express": "^4.14.0",
-		"fcc-express-background": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
+		"fcc-express-background": "@https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
 	},
 	"license": "MIT",
 	"main": "server.js",
